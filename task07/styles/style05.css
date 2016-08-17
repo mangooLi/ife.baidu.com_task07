@@ -1,0 +1,54 @@
+.fifthbar{
+	height:567px;background-color:#fff;
+}
+.fifthbar-left{
+	width:851px;height:100%;
+	background-image:url(../img/part05/fifthbar-bg.png);
+	float:left;
+	color:#fff;
+	text-align:center;
+}
+.fifthbar-left h1{
+	font-size:44px;
+	margin-top:130px;
+}
+.fifthbar-left h2{
+	font-size:120px;
+	font-family::"黑体";
+	
+}
+.fifthbar-left h3{
+	font-size:22px;
+	line-height:200%;
+	margin-top:-8px;
+}
+.fifthbar-left h4{
+	font-size:18px;
+	line-height:200%
+}
+.fifthbar-right{
+	width:429px;float:right;
+}
+.fifthbar-right h1{
+	font-size:24px;margin-top:140px;
+	text-align:center;
+	line-height:400%;
+	color:rgb(50,50,50);
+}
+.fifthbar-right p{
+	font-size:14px;
+	line-height:30px;
+	margin:0 60px;
+	color:rgb(200,200,200);
+}
+.fifthbar-right h2{
+	font-size:12px;
+	line-height:32px;
+	margin:50px 160px;
+	color:rgb(240,184,185);
+	height:32px;width:106px;
+	border:1px solid rgb(240,184,185);
+	text-align:center;
+
+
+}
